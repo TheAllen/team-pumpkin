@@ -1,8 +1,7 @@
 # EXPRESS-STARTER
 
-A social media polling application that allows users to create polls by uploading pictures, and get instant opinions from their friends. 
-
 ## About
+A social media polling application. It allows users to add friends, create friend lists, create polls, upload user avatar, and chat with friends.
 
 ## Contributors
 Zeeshan, Saad Merchant, Liang Li
