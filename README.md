@@ -7,10 +7,10 @@ A social media polling application. It allows users to add friends, create frien
 Zeeshan, Saad Merchant, Liang Li
 
 ## Tech Stack/Frameworks
-*React.js/Material-UI
-*Express/Node.js
-*MongoDB/Mongoose
-*Socket.io
-*JsonWebToken
-*Cloudinary
-*Bcrypt
+- React.js/Material-UI
+- Express/Node.js
+- MongoDB/Mongoose
+- Socket.io
+- JsonWebToken
+- Cloudinary
+- Bcrypt
