@@ -4,7 +4,10 @@
 A social media polling application. It allows users to add friends, create friend lists, create polls, upload user avatar, and chat with friends.
 
 ## Contributors
-Zeeshan, Saad Merchant, Liang Li
+- Aecio (Team Lead)
+- Zeeshan 
+- Saad Merchant 
+- Liang Li
 
 ## Tech Stack/Frameworks
 - React.js/Material-UI
@@ -14,3 +17,5 @@ Zeeshan, Saad Merchant, Liang Li
 - JsonWebToken
 - Cloudinary
 - Bcrypt
+
+## Getting Started
