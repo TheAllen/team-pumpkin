@@ -5,9 +5,9 @@ A social media polling application. It allows users to add friends, create frien
 
 ## Contributors
 - Aecio (Team Lead)
+- Allen Li
 - Zeeshan 
 - Saad Merchant 
-- Liang Li
 
 ## Tech Stack/Frameworks
 - React.js/Material-UI
