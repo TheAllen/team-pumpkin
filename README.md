@@ -20,7 +20,13 @@ A social media polling application. It allows users to add friends, create frien
 
 ## Getting Started
 ```html 
-<P>git clone</p> 
+git clone https://github.com/TheAllen/team-pumpkin.git
 ``` 
-> npm run dev
-> npm start
+### Server
+```html 
+npm run dev
+```
+### Client
+```html
+npm start
+```
