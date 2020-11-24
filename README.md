@@ -19,3 +19,6 @@ A social media polling application. It allows users to add friends, create frien
 - Bcrypt
 
 ## Getting Started
+# git clone 
+# npm run dev
+# npm start
