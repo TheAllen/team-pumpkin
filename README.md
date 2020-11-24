@@ -4,7 +4,7 @@
 A social media polling application. It allows users to add friends, create friend lists, create polls, upload user avatar, and chat with friends.
 
 ## Contributors
-- [Aecio (Team Lead)](#description)
+- [Aecio (Team Lead)](https://github.com/aeciorc)
 - Allen Li
 - Zeeshan 
 - Saad Merchant 
